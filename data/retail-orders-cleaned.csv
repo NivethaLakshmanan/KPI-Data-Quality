@@ -1,0 +1,8 @@
+order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct,payment_status
+RT-1001,03-01-2026,Student,Chennai,Learning Kit,2,799,10,Paid
+RT-1002,03-01-2026,Fresher,Bengaluru,Course Access,1,1499,0,Paid
+RT-1003,05-01-2026,Student,Chennai,Course Access,1,1499,0,Pending
+RT-1004,07-01-2026,Professional,Hyderabad,Learning Kit,3,799,5,Paid
+RT-1008,14-01-2026,Fresher,Bengaluru,Course Access,2,1499,0,Pending
+RT-1009,16-01-2026,Student,Chennai,Learning Kit,1,799,0,Paid
+RT-1010,18-01-2026,Professional,Delhi,Course Access,2,1499,15,Refunded

@@ -1,0 +1,5 @@
+order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct,payment_status
+RT-1005,2026-01-09,Fresher,,Mentor Session,1,999,0.0,Failed
+RT-1006,,Student,Pune,Learning Kit,-1,799,10.0,Paid
+RT-1007,2026-01-12,Professional,Mumbai,Mentor Session,2,999,105.0,Paid
+RT-1011,,Student,Kochi,Mentor Session,1,999,0.0,Paid
